@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Gothic';
+    src: url("../fonts/GOTHIC.TTF");
+}
+@font-face {
+    font-family: 'Gothic bold';
+    src: url("../fonts/GOTHICB.TTF");
+}
+@font-face {
+    font-family: 'Gothic bold italic';
+    src: url("../fonts/GOTHICBI.TTF");
+}
+@font-face {
+    font-family: 'Gothic italic';
+    src: url("../fonts/GOTHICI.TTF");
+}
